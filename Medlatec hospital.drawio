@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T03:48:11.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JVLJ_3gsF0LAKoEADhjW" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T03:48:27.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J0N0pSWGe-4vsM5r8aQ-" version="21.6.9" type="github">
   <diagram name="Trang-1" id="5vjnV365fqBCd5JZmHe9">
     <mxGraphModel dx="2442" dy="2026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XSQaQU0RRqRrrEe890e8-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.076;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.786;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XSQaQU0RRqRrrEe890e8-53" target="XSQaQU0RRqRrrEe890e8-3">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.076;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.786;exitY=-0.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XSQaQU0RRqRrrEe890e8-53" target="XSQaQU0RRqRrrEe890e8-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="260" as="sourcePoint" />
             <mxPoint x="440" y="210" as="targetPoint" />
@@ -13,106 +13,106 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-3" value="&#xa;&lt;span style=&quot;color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bệnh viện Medlatec, một bệnh viện chuyên về các kiểm tra chẩn đoán, đang phát triển một ứng dụng di động để phục vụ bệnh nhân trong việc tra cứu thông tin.&lt;/span&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-3" value="&#xa;&lt;span style=&quot;color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Bệnh viện Medlatec, một bệnh viện chuyên về các kiểm tra chẩn đoán, đang phát triển một ứng dụng di động để phục vụ bệnh nhân trong việc tra cứu thông tin.&lt;/span&gt;&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="20" width="400" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-4" value="Tình hình" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-4" value="Tình hình" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="390" y="180" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="XSQaQU0RRqRrrEe890e8-7">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="XSQaQU0RRqRrrEe890e8-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="310" as="sourcePoint" />
             <mxPoint x="570" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-7" value="&#xa;&lt;span style=&quot;color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Xây dựng ứng dụng giúp bệnh nhân dễ dàng tra cứu thông tin y tế hàng ngày và thông tin về các bệnh lý cụ thể.&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-7" value="&#xa;&lt;span style=&quot;color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Xây dựng ứng dụng giúp bệnh nhân dễ dàng tra cứu thông tin y tế hàng ngày và thông tin về các bệnh lý cụ thể.&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="250" width="380" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-8" value="Mục tiêu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-8" value="Mục tiêu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="425" y="278" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="289.5" as="sourcePoint" />
             <mxPoint x="190" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-11" value="Quy trình" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-11" value="Quy trình" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="140" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XSQaQU0RRqRrrEe890e8-11" target="XSQaQU0RRqRrrEe890e8-14">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XSQaQU0RRqRrrEe890e8-11" target="XSQaQU0RRqRrrEe890e8-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="370" as="sourcePoint" />
             <mxPoint x="70" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="278" as="sourcePoint" />
             <mxPoint x="30" y="278" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-14" value="Thông Tin Về Các Bệnh Lý" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-14" value="Thông Tin Về Các Bệnh Lý" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-100" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-15" value="Xem Tin Tức Y Tế:" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-15" value="Xem Tin Tức Y Tế:" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="240" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="XSQaQU0RRqRrrEe890e8-17">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-16" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="XSQaQU0RRqRrrEe890e8-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="140" y="230" as="sourcePoint" />
             <mxPoint x="30" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-17" value="Đặt Lịch Kiểm Tra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-17" value="Đặt Lịch Kiểm Tra" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-90" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XSQaQU0RRqRrrEe890e8-11" target="XSQaQU0RRqRrrEe890e8-19">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XSQaQU0RRqRrrEe890e8-11" target="XSQaQU0RRqRrrEe890e8-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="300" as="sourcePoint" />
             <mxPoint x="120" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-19" value="Thu Mẫu Tại Nhà" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-19" value="Thu Mẫu Tại Nhà" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="430" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XSQaQU0RRqRrrEe890e8-11" target="XSQaQU0RRqRrrEe890e8-21">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="XSQaQU0RRqRrrEe890e8-11" target="XSQaQU0RRqRrrEe890e8-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="300" as="sourcePoint" />
             <mxPoint x="110" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-21" value="Thông Báo Kết Quả Kiểm Tra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-21" value="Thông Báo Kết Quả Kiểm Tra" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="55" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XSQaQU0RRqRrrEe890e8-11" target="XSQaQU0RRqRrrEe890e8-23">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="XSQaQU0RRqRrrEe890e8-11" target="XSQaQU0RRqRrrEe890e8-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="300" as="sourcePoint" />
             <mxPoint x="180" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-23" value="Xem Kết Quả Kiểm Tra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-23" value="Xem Kết Quả Kiểm Tra" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XSQaQU0RRqRrrEe890e8-11" target="XSQaQU0RRqRrrEe890e8-25">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XSQaQU0RRqRrrEe890e8-11" target="XSQaQU0RRqRrrEe890e8-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="300" as="sourcePoint" />
             <mxPoint x="210" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-25" value="Gợi Ý Đến Bệnh Viện" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-25" value="Gợi Ý Đến Bệnh Viện" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.972;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="XSQaQU0RRqRrrEe890e8-28">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.972;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="XSQaQU0RRqRrrEe890e8-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-90" y="166.1" as="sourcePoint" />
             <mxPoint x="-220" y="143.90487804878043" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-28" value="Bệnh nhân có thể đặt lịch kiểm tra y tế thông qua ứng dụng di động." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-28" value="Bệnh nhân có thể đặt lịch kiểm tra y tế thông qua ứng dụng di động." style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-780" y="50" width="410" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.035;exitY=0.352;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="XSQaQU0RRqRrrEe890e8-31">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.035;exitY=0.352;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="XSQaQU0RRqRrrEe890e8-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-89.99999999999996" y="284.08" as="sourcePoint" />
             <mxPoint x="-290" y="310" as="targetPoint" />
@@ -121,76 +121,76 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-31" value="Bệnh nhân có thể xem tin tức hàng ngày về tình hình y tế thông qua ứng dụng." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-31" value="Bệnh nhân có thể xem tin tức hàng ngày về tình hình y tế thông qua ứng dụng." style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-820" y="265" width="470" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="XSQaQU0RRqRrrEe890e8-14" target="XSQaQU0RRqRrrEe890e8-33">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" source="XSQaQU0RRqRrrEe890e8-14" target="XSQaQU0RRqRrrEe890e8-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-190" y="510" as="sourcePoint" />
             <mxPoint x="-140" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-33" value="Cung cấp thông tin chi tiết về các bệnh lý để bệnh nhân có thể tự nắm bắt kiến thức y tế." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-33" value="Cung cấp thông tin chi tiết về các bệnh lý để bệnh nhân có thể tự nắm bắt kiến thức y tế." style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-690" y="410" width="530" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XSQaQU0RRqRrrEe890e8-19" target="XSQaQU0RRqRrrEe890e8-35">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XSQaQU0RRqRrrEe890e8-19" target="XSQaQU0RRqRrrEe890e8-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-190" y="510" as="sourcePoint" />
             <mxPoint x="-120" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-35" value="Nhân viên bệnh viện sẽ đến tận nơi của bệnh nhân để thu mẫu khi đã đặt lịch." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-35" value="Nhân viên bệnh viện sẽ đến tận nơi của bệnh nhân để thu mẫu khi đã đặt lịch." style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-680" y="600" width="490" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XSQaQU0RRqRrrEe890e8-25" target="XSQaQU0RRqRrrEe890e8-37">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="XSQaQU0RRqRrrEe890e8-25" target="XSQaQU0RRqRrrEe890e8-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-120" y="550" as="sourcePoint" />
             <mxPoint x="150" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-37" value="Trong trường hợp phát hiện vấn đề nghiêm trọng, ứng dụng sẽ đề xuất bệnh nhân đến bệnh viện hoặc phòng khám phù hợp." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-37" value="Trong trường hợp phát hiện vấn đề nghiêm trọng, ứng dụng sẽ đề xuất bệnh nhân đến bệnh viện hoặc phòng khám phù hợp." style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-340" y="680" width="710" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XSQaQU0RRqRrrEe890e8-21" target="XSQaQU0RRqRrrEe890e8-39">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" parent="1" source="XSQaQU0RRqRrrEe890e8-21" target="XSQaQU0RRqRrrEe890e8-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-100" y="120" as="sourcePoint" />
             <mxPoint x="10" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-39" value="Ứng dụng sẽ thông báo khi kết quả kiểm tra đã sẵn có." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-39" value="Ứng dụng sẽ thông báo khi kết quả kiểm tra đã sẵn có." style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-460" y="-230" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XSQaQU0RRqRrrEe890e8-23" target="XSQaQU0RRqRrrEe890e8-41">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="XSQaQU0RRqRrrEe890e8-23" target="XSQaQU0RRqRrrEe890e8-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-100" y="90" as="sourcePoint" />
             <mxPoint x="100" y="-150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-41" value="Bệnh nhân chỉ cần nhập thông tin cần thiết vào ứng dụng để xem kết quả kiểm tra." style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-41" value="Bệnh nhân chỉ cần nhập thông tin cần thiết vào ứng dụng để xem kết quả kiểm tra." style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="-310" width="510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-42" value="nghiêm trọng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-42" value="nghiêm trọng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="555" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-43" value="làm lịch mẫu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-43" value="làm lịch mẫu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-195" y="520" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-47" value="nhập thông tin lên ứng dụng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-47" value="nhập thông tin lên ứng dụng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-270" y="385" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-48" value="cập nhật lịch trên di động" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-48" value="cập nhật lịch trên di động" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-320" y="275" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-49" value="đặt lịch thông qua ứng dụng di động" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-49" value="đặt lịch thông qua ứng dụng di động" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-310" y="110" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-51" value="Ứng dụng tự thông báo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-51" value="Ứng dụng tự thông báo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-130" y="-50" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-52" value="xem kết quả trên ứng dụng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-52" value="xem kết quả trên ứng dụng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="140" y="-60" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-53" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-53" value="Medlatec hospital" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="265" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
