@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T03:48:27.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="J0N0pSWGe-4vsM5r8aQ-" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T03:53:05.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ao14tNAidQPev5z_I5iY" version="21.6.9" type="github">
   <diagram name="Trang-1" id="5vjnV365fqBCd5JZmHe9">
     <mxGraphModel dx="2442" dy="2026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
         <mxCell id="XSQaQU0RRqRrrEe890e8-52" value="xem kết quả trên ứng dụng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="140" y="-60" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XSQaQU0RRqRrrEe890e8-53" value="Medlatec hospital" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="XSQaQU0RRqRrrEe890e8-53" value="Medlatec hospitals" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="265" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
